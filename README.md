@@ -1,16 +1,13 @@
 # AI Coding Tutorial
 
-This is a website to help you learn how to use AI coding assistants.
+This is the TC CAD system. 
+
+The .md files and the .github folder are for Copilot. 
+
+To have Copilot use these open, open Copilot CLI in the folder where these files are located.
 
 ## Walkthrough
 
-1. Context & Reusable Prompts
-2. Mode Explanation - Planning vs. Implementing 
-3. Understanding - Codebase
-4. Understanding - Tagging
-5. Writing - Inline Code
-6. Writing - Simple Ask
-  - The "Learn More About Our Features" button on the index.html page doesn't animate in with the rest of the features section, so it looks weird.
-7. Writing - Workflow
-  - We need to create a contact page and then also update the links on the index.html and features.html pages to point to this. For now, we can use the same styling we have on other pages and we can build a basic contact form that you would usually see on a website. Create the tasks for this, don't implement it yet. @task-creator.mdc
-  - markdown-file.md Great, now @implement-it.mdc
+1. The MobileCom folder contains the source code for the TC CAD system MobileCom mobile product.
+2. The Interfaces folder contains additional TC CAD interfaces.
+3. The CAD folder contains the TC CAD system source code.
